@@ -1,0 +1,5 @@
+{
+  "demo": true,
+  "note": "Placeholder cut-offs for DEMO mode only. They are values on the normalized model score (0-1). Replace them with calibrated values when the real model is ready.",
+  "cutoffs": [0.25, 0.5, 0.75, 0.9]
+}
